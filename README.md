@@ -6,8 +6,8 @@ I'm a software developer with an interest in high-level low-level programming.
 
 * 🌍  I'm based in Greece
 * 🚀  I'm currently working on [my README](http://github.com/Reavey-0xFF/Reavey-0xFF)
-* 🧠  I'm learning various things about template metaprogramming and C++ in general.
-* ⚡  i'm still trying to quit vim.
+* 🧠  I'm learning various things about template metaprogramming and neural networks.
+* ⚡  I'm still trying to quit vim.
 
 <b>My GitHub Stats</b>
 
