@@ -17,5 +17,4 @@ I'm a software developer with an interest in high-level low-level programming.
 
 <b>My GitHub Stats</b>
 
-<p href="http://www.github.com/Reavey-0xFF"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Reavey-0xFF&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Reavey-0xFF's GitHub stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reavey-0xFF&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?Reavey-0xFF&theme=algolia&border_color=222&bg_color=121821" alt="Reavey-0xFF's GitHub stats"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hReavey-0xFF&theme=algolia&border_color=222&bg_color=121821&layout=compact" alt="Reavey-0xFF's top used languages"/></p>
