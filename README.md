@@ -11,4 +11,4 @@ I'm a software developer specializing in high-level low-level programming.
 
 <b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Reavey-0xFF&theme=algolia&border_color=222&bg_color=121821" alt="Reavey-0xFF's GitHub stats"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reavey-0xFF&theme=algolia&border_color=222&bg_color=121821&layout=compact" alt="Reavey-0xFF's top used languages"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hexRaph&theme=algolia&border_color=222&bg_color=121821" alt="hexRaph's GitHub stats"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexRaph&theme=algolia&border_color=222&bg_color=121821&layout=compact" alt="hexRaph's top used languages"/></p>
