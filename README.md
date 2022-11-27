@@ -1,7 +1,4 @@
-Hi 👋 My name is Raphael
-========================
-
-I'm a software developer specializing in high-level low-level programming.
+Software developer specializing in high-level low-level programming.
 ------------------------------------------------------------------------------
 
 * 🌍  I'm based in Greece
