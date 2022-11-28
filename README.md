@@ -1,10 +1,8 @@
 Software developer specializing in high-level low-level programming.
 ------------------------------------------------------------------------------
 
-* 🌍  I'm based in Greece
-* 🚀  I'm currently working on [my README](http://github.com/Reavey-0xFF/Reavey-0xFF)
-* 🧠  I'm learning various things about template metaprogramming and code optimization.
-* ⚡  I'm still trying to quit vim.
+* 🌍  I'm based in Greece.
+* 🧠  At the moment i'm enriching my knowledge on template metaprogramming and code optimization.
 
 <b>My GitHub Stats</b>
 
